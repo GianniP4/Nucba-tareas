@@ -1,0 +1,49 @@
+
+body {
+
+    background-color: #9B89B3;
+    font-family: 'Raleway', sans-serif;
+    ;
+}
+
+h1{
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Roboto Slab', serif;
+    font-style: oblique;
+}
+
+
+.img_1{
+    max-width: 600px;
+    height: 500px;
+    margin: 0.2em;
+    border: 0.5em black double;
+    float: right;
+}
+
+
+.box_1{
+    font-size: 1.4em;
+    background-color: white;
+    display: grid;
+    
+}
+
+.box_2{
+    font-size: 1.5em;
+    background-color: rgb(250, 241, 241);
+    display: grid;
+}
+
+.form_email{
+    font-weight: bold;
+    font-size: 1.3em;background-color: white;
+    display: grid;
+}
+
+.rare{
+    display: inline-block;
+    padding: 1em;
+    border: rgb(34, 29, 28) dotted 0.5em;
+}
